@@ -1,1 +1,1 @@
-# CNN-image-recognition-for-CFAR10
+# CNN-image-recognition-model-for-CFAR10
